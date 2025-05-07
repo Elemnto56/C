@@ -1,4 +1,4 @@
 {
     "C_Cpp.default.compilerPath": "/usr/bin/gcc",
-    "memory-inspector.debugTypes": [ "cppvsdbg" ]
+    "memory-inspector.debugTypes": ["cppdbg", "cppvsdbg"]
 }
